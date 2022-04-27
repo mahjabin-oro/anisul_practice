@@ -1,7 +1,5 @@
 okay, couldnt solve previous problem
 trying to pull my new commit
+creating first branch using github.
 
-
-
-change during branch feature2
-why change isnot found.
+trying feature2 branch.
