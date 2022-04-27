@@ -1,3 +1,7 @@
 okay, couldnt solve previous problem
 trying to pull my new commit
+
+
+
 change during branch feature2
+why change isnot found.
